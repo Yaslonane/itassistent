@@ -8,6 +8,6 @@
 return array(
     
     'name'=>'Unit',
-    'email_support'=>'support@unit-org.ru', //support@unit-org.ru
+    'email_support'=>'support@test.ru', //support@test.ru
     'number'=>'8800'
 );

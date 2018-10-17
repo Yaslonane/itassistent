@@ -7,9 +7,9 @@
  */
 
 return array(
-    'ldap_host' => 'LDAP_B7.RCCF.RU', //, LDAP_M1.RCCF.RU',
+    'ldap_host' => 'LDAP_B7.LOCAL.RU', //, LDAP_M1.LOCAL.RU',
     'ldap_port' => '389',
-    'ldap_base' => 'OU=Accounts, DC=rccf, DC=ru',
+    'ldap_base' => 'OU=Accounts, DC=local, DC=ru',
     'ldap_filter' => 'sAMAccountName=',
-    'ldap_domain' => '@rccf.ru',
+    'ldap_domain' => '@local.ru',
 );
